@@ -1,0 +1,25 @@
+body {
+    background-color: #f8f9fa;
+    font-family: Arial, sans-serif;
+}
+
+.card {
+    margin-top: 20px;
+    padding: 20px;
+    border-radius: 10px;
+}
+
+.cv {
+    padding: 20px;
+}
+
+h1,
+h3 {
+    text-transform: uppercase;
+    color: #054969;
+}
+
+input {
+    border-radius: 5px;
+    margin-bottom: 10px;
+}
